@@ -29,12 +29,13 @@ Through **NiMa**, I work on solutions involving CRM, inventory operations, ERP i
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| **[NiMa Connect](https://github.com/nivcam/nima-connect-showcase)** | Omnichannel CRM with WhatsApp integration, sales workflows, and AI-assisted features. | TypeScript, Next.js, React, PostgreSQL, Docker |
-| **Inventário Fácil** | Android-based inventory counting, synchronization, and web-based stock reconciliation. | Kotlin, Jetpack Compose, REST API, PostgreSQL, Docker |
-| **NiMa Balança Sync** | Desktop service for synchronizing ERP product information with retail scale software. | C#, .NET, WPF, Windows Service, IBM DB2, ODBC |
-| **Business Intelligence & Data Integration** | ERP data pipelines and dashboards for sales, purchases, and inventory analysis. | SQL, IBM DB2, PostgreSQL, n8n, Power BI |
-| **Service Request Management** | Business service-request and attendance control workflows. | Business applications, workflow automation |
-| **Infrastructure & Automation** | Hosting and integration environments for business applications and internal services. | Linux, Docker, Caddy, Proxmox, NAS, n8n |
+| **[NiMa Connect](https://github.com/nivcam/nima-connect-showcase)** | Customized CRM with WhatsApp, sales workflows, and AI-assisted features. | TypeScript, Next.js, React, PostgreSQL |
+| **[Inventário Fácil](projects/inventario-facil.md)** | Offline-first Android inventory collection, synchronization, web validation, and consolidation. | Kotlin, Jetpack Compose, REST APIs, PostgreSQL |
+| **[NiMa Balança Sync](projects/nima-balanca-sync.md)** | Enterprise product data to retail scale export formats, with controlled validation. | C#, .NET, WPF, IBM DB2, ODBC |
+| **[Monthly Results Review — RMR](projects/rmr-results-review.md)** | Operational and commercial management reporting with AI-assisted technical analysis. | Next.js, PostgreSQL, n8n, AI |
+| **[Retail BI & Data Integration](projects/business-intelligence.md)** | ERP reporting pipeline, inventory coverage analysis, and management dashboards. | SQL, IBM DB2, PostgreSQL, Power BI |
+| **[Service Queue Management](projects/je-chamadas.md)** | Service workflow application with management, history, and live display views. | TypeScript, Next.js, Supabase |
+| **[Workflow Automation](projects/n8n-automation.md)** | API/webhook integrations, product and stock sync, and scheduled reporting. | n8n, SQL, PostgreSQL, Docker |
 
 ## Technologies I work with
 
