@@ -6,9 +6,9 @@
 
 **Building practical software, reliable integrations, and automation solutions for real businesses.**
 
-Founder of **[NiMa Automação e Tecnologia](https://nimaautomacao.com.br)** · Based in Fortaleza, Brazil 🇧🇷
+Founder of **[NiMa Automação e Tecnologia](https://www.nimaautomacao.com.br)** · Based in Fortaleza, Brazil 🇧🇷
 
-[![Website](https://img.shields.io/badge/Website-NiMa_Automação-0A66C2?style=for-the-badge)](https://nimaautomacao.com.br)
+[![Website](https://img.shields.io/badge/Website-NiMa_Automação-0A66C2?style=for-the-badge)](https://www.nimaautomacao.com.br)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-555555?style=for-the-badge)](mailto:contato@nimaautomacao.com.br)
 
 </div>
@@ -54,7 +54,7 @@ Through **NiMa**, I work on solutions involving CRM, inventory operations, ERP i
 
 Interested in collaborating on a project or improving a business process?
 
-**🌐 Website:** [nimaautomacao.com.br](https://nimaautomacao.com.br)  
+**🌐 Website:** [nimaautomacao.com.br](https://www.nimaautomacao.com.br)  
 **✉️ Business email:** [contato@nimaautomacao.com.br](mailto:contato@nimaautomacao.com.br)  
 **📍 Location:** Fortaleza, Ceará, Brazil
 
