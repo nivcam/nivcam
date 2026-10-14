@@ -25,9 +25,11 @@ Through **NiMa**, I work on solutions involving CRM, inventory operations, ERP i
 
 > These are real projects and professional experience highlights. Some source code is private to protect business and client information.
 
+**Featured case study:** [NiMa Connect — CRM & Business Automation →](projects/nima-connect.md) — problem, solution, technology stack, and engineering highlights.
+
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| **NiMa Connect** | Omnichannel CRM with WhatsApp integration, sales workflows, and AI-assisted features. | TypeScript, Next.js, React, PostgreSQL, Docker |
+| **[NiMa Connect](projects/nima-connect.md)** | Omnichannel CRM with WhatsApp integration, sales workflows, and AI-assisted features. | TypeScript, Next.js, React, PostgreSQL, Docker |
 | **Inventário Fácil** | Android-based inventory counting, synchronization, and web-based stock reconciliation. | Kotlin, Jetpack Compose, REST API, PostgreSQL, Docker |
 | **NiMa Balança Sync** | Desktop service for synchronizing ERP product information with retail scale software. | C#, .NET, WPF, Windows Service, IBM DB2, ODBC |
 | **Business Intelligence & Data Integration** | ERP data pipelines and dashboards for sales, purchases, and inventory analysis. | SQL, IBM DB2, PostgreSQL, n8n, Power BI |
