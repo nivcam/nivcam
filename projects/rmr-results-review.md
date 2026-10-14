@@ -28,7 +28,7 @@ flowchart LR
     C --> D["Web management dashboard"]
     C --> E["AI-assisted analysis"]
     E --> D
-\`\`\`
+```
 
 
 ## Technology stack
